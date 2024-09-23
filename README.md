@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarun-allaparti
-- 👀 I’m interested in materials engineering, data science and analytics, and sustainability 
-- 🌱 I’m currently learning how to use data science for energy and materials applications
+- 👀 I’m interested in data science, machine learning, hardware, and sustainability 
+- 🌱 I’m currently learning how to use data science for materials science applications
 - 💞️ I’m looking to collaborate on any projects that build my knowledge on data science or software engineering
 - 📫 How to reach me: tarun.allaparti@berkeley.edu
 
